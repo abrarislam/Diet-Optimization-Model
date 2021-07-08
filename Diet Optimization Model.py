@@ -1,6 +1,6 @@
 # The diet problem is one of the first large-scale optimization problems to be studied in practice.
 # Back in the 1930’s and 40’s, the Army wanted to meet the nutritional requirements of its soldiers
-#  while minimizing the cost.) In this homework you get to solve a diet problem with real data.
+# while minimizing the cost.) In this homework you get to solve a diet problem with real data.
 
 # 1. The following is an optimization model (a linear program) to find the cheapest diet that satisfies the maximum and minimum daily
 #    nutrition constraints, and is solved using PuLP.  (The optimal solution should be a diet of air-popped popcorn,
